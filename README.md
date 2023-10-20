@@ -72,10 +72,10 @@
 
 ## node.js 이후 로드맵
 
->node.js → TypeScripy + javaScript(복습: 제대로 파는 자바스크립트(JavaScript) - by 얄코) → NestJS(탄탄한 백엔드 NestJS, 기초부터 심화까지)
+>node.js → TypeScripy + javaScript(복습) → NestJS(탄탄한 백엔드 NestJS, 기초부터 심화까지)
 >### 인프런 주소
 >1. [[개정3판] Node.js 교과서 - 기본부터 프로젝트 실습까지](https://www.inflearn.com/course/%EB%85%B8%EB%93%9C-js-%EA%B5%90%EA%B3%BC%EC%84%9C)
 >2. [제대로 파는 자바스크립트(JavaScript) - by 얄코](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
->3. [탄탄한 백엔드 NestJS, 기초부터 심화까지](https://www.inflearn.com/course/%ED%83%84%ED%83%84%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%84%A4%EC%8A%A4%ED%8A%B8)
-
+>3. [자바스크립트 기초 강좌 : 100분 완성 - 코딩앙마](https://youtu.be/KF6t61yuPCY?si=LVaFeTcfaONVipM7)
+>4. [탄탄한 백엔드 NestJS, 기초부터 심화까지](https://www.inflearn.com/course/%ED%83%84%ED%83%84%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%84%A4%EC%8A%A4%ED%8A%B8)
 ing
