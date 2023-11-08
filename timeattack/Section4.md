@@ -46,4 +46,3 @@
 - 패키지 다운로드 추이 확인: https://www.npmtrends.com
 - 패키지 이름에 네임스페이스 설정하기: https://docs.npmjs.com/misc/scope
 - release-it: https://github.com/release-it/release-it
-239
