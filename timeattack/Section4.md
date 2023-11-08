@@ -39,9 +39,11 @@
 이렇게 Node.js와 npm을 이용하여 패키지를 관리하고 배포하는 방법을 통해 Node.js 생태계에서 다양한 모듈과 패키지를 활용할 수 있다.
 
 ## 5.6 함께 보면 좋은 자료
-- http 모듈 소개: https://nodejs.org/dist/latest-v18.x/docs/api/http.html
-- 쿠키 설명: https://developer. mozilla.org/ko/docs/Web/HITTP/Cookies
-- 세션 설명: https://developer. mozilla.org/ko/docs/Web/HTTP/Session
-- https 모듈 소개: hitps://nodejs.org/dist/latest-v18.x/docs/api/https.html
-- http2 모듈 소개: https://nodejs.org/dist/latest-v18.x/docs/api/http2.html
-- cluster 모듈 소개: https://nodejs.org/dist/latest-v18.x/docs/api/cluster.html
+- npm 공식 웹 사이트: https://npmis.com
+- yarn 공식 웹 사이트: https://yarnpkg.com
+- npm 명령어 설명서: https://docs.npmjs.com/cli
+- 패키지 간 비교 사이트: https://npmcompare.com
+- 패키지 다운로드 추이 확인: https://www.npmtrends.com
+- 패키지 이름에 네임스페이스 설정하기: https://docs.npmjs.com/misc/scope
+- release-it: https://github.com/release-it/release-it
+239
