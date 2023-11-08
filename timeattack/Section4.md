@@ -39,7 +39,7 @@
 이렇게 Node.js와 npm을 이용하여 패키지를 관리하고 배포하는 방법을 통해 Node.js 생태계에서 다양한 모듈과 패키지를 활용할 수 있다.
 
 ## 5.6 함께 보면 좋은 자료
-- npm 공식 웹 사이트: https://npmis.com
+- npm 공식 웹 사이트: https://npmjs.com
 - yarn 공식 웹 사이트: https://yarnpkg.com
 - npm 명령어 설명서: https://docs.npmjs.com/cli
 - 패키지 간 비교 사이트: https://npmcompare.com
