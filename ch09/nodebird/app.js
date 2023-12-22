@@ -1,8 +1,8 @@
 const express = require("express");
 const cookieParser = require("cookie-parser");
 const morgan = require("morgan");
-const path = requrie("path");
-const session = requrie("express-session");
+const path = require("path");
+const session = require("express-session");
 const nunjucks = require("nunjucks");
 const dotenv = require("dotenv");
 
